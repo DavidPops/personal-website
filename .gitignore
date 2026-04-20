@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor / IDE
+*.swp
+*.swo
+*~
+.idea/
+
+# Local env / secrets (if you add tooling later)
+.env
+.env.*
+!.env.example
+
+# Logs and temp
+*.log
+*.tmp
+.cache/
